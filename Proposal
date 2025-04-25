@@ -1,0 +1,39 @@
+#Proposal
+
+## What will (likely) be the title of your project?
+
+"Cultivation Of Soil"
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+A video game that has a cute little animal farm performing different tasks to keep their farm lively.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+The software Godot will use the downloaded tiles and sprites to create a functional farming game. It will have tree chopping, tilling, watering plants, mining, and planting. There will be a hotbar in which the player can select which item to use when doing an action. To make this more realistic, there will also be a day/night cycle with a shown clock.   
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+N/A
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+This project will be worked on by Fiona Irawan (tun55899@temple.edu) (TA: Nathan Cherny) and Elvis Ho (tup95027@temple.edu) (TA: Rahad Arman Nabid) 
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+I want to at least accomplish the basic functions of farming first, and if I have time, complete other functions to make it more realistic + fun.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+Having all the basic farming needs, player movement, a time clock working, and NPC dialogues. 
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+Adding more lore to the game and having other fun activities, such as customization and activities. 
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+First, figuring out how Godot works out since this is the first time we are making a game. We will need to search for how to first set up and understand how to import and make the map. Fiona will most likely focus on building the map, sprites being used, and possibly lore. Elvis will focus on the vision of the software with coding. (Although we have our roles most likely we would help each other if any problems occur).
